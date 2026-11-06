@@ -1,0 +1,72 @@
+- !<AssetImportMetadata/b9d617ea-fa47-42d5-912a-6dcbfb70a481>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> df3434c1-2562-4e87-8307-ba4babf5a465
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> df3434c1-2562-4e87-8307-ba4babf5a465
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 55981432-e73b-4ac7-b00f-09ae9eab00fa
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/55981432-e73b-4ac7-b00f-09ae9eab00fa>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 00469c9c-8fd6-4503-875f-045ca0eda87d
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    arriveRadius: false
+    beaconSeconds: false
+    camera: false
+    cueSeconds: false
+    floorY: false
+    glow: false
+    mainCard: false
+    spotCard: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - camera: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      glow: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      mainCard: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      spotCard: !<MappingBased.AssignableType_2> 00000000-0000-0000-0000-000000000000
+      arriveRadius: !<float> 120.000000
+      cueSeconds: !<float> 6.000000
+      beaconSeconds: 4.500000
+      floorY: !<float> -135.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @ui {"widget":"label", "label":"Walk Your Talk | controller"}'
+    - '// @ui {"widget":"group_start", "label":"References"}'
+    - '// @input SceneObject camera {"hint":"World-tracked camera (Camera Object)"}'
+    - '// @input Asset.Material glow {"hint":"Unlit, alpha-blended material used for rings, dots, orbs and arrow"}'
+    - '// @input AssignableType_1 mainCard {"hint":"Intro, phase and debrief card"}'
+    - '// @input AssignableType_2 spotCard {"hint":"Card that sits next to the spot in focus"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"group_start", "label":"Tuning"}'
+    - '// @input float arriveRadius = 90 {"hint":"Walking within this horizontal distance (cm) of the next spot counts as arriving", "widget":"slider", "min":60, "max":250, "step":5}'
+    - "// @input float cueSeconds = 6 {\"hint\":\"Seconds a beat's cue stays up after you arrive\", \"widget\":\"slider\", \"min\":2, \"max\":12, \"step\":0.5}"
+    - '// @input float beaconSeconds = 4.5 {"hint":"Seconds between beacon chimes from the next spot", "widget":"slider", "min":2, "max":10, "step":0.5}'
+    - '// @input float floorY = -135 {"hint":"Floor height relative to the starting head position (cm)"}'
+    - '// @ui {"widget":"group_end"}'

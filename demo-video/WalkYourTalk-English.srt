@@ -1,0 +1,118 @@
+1
+00:00:00,300 --> 00:00:04,481
+Your best friend's wedding is on Saturday, and you're giving a two-
+minute toast.
+
+2
+00:00:04,641 --> 00:00:10,037
+You'll be holding a glass and a microphone, and you want your eyes on
+the couple, not on note cards.
+
+3
+00:00:10,197 --> 00:00:12,112
+So the talk has to live in your head.
+
+4
+00:00:13,172 --> 00:00:19,742
+Memory champions don't repeat lists. They walk through a place they
+know and leave a vivid image at each spot.
+
+5
+00:00:19,902 --> 00:00:26,918
+In a 2017 study in Neuron, six weeks of this method more than doubled
+ordinary people's recall.
+
+6
+00:00:27,078 --> 00:00:30,832
+Walk Your Talk brings that trick into your actual room, on SPECS.
+
+7
+00:00:31,892 --> 00:00:38,996
+Pinch the glowing spot, and the first beat, thank everyone for coming,
+becomes a sunflower bouquet on the kitchen island.
+
+8
+00:00:39,156 --> 00:00:47,304
+The camping trip becomes a tent, the bowling alley a giant pin,
+patience a golden snail, and the toast itself a champagne flute.
+
+9
+00:00:47,464 --> 00:00:50,335
+A gold route joins them in the order you'll speak.
+
+10
+00:00:51,395 --> 00:00:52,710
+Now walk the route.
+
+11
+00:00:52,870 --> 00:00:58,502
+As you reach each object, it wakes up and shows its beat, just long
+enough to say it out loud.
+
+12
+00:00:58,662 --> 00:01:03,132
+If the next spot is out of view, a small arrow and a soft chime point
+the way.
+
+13
+00:01:03,292 --> 00:01:06,268
+Can't walk the room? Pinch the next spot instead.
+
+14
+00:01:07,328 --> 00:01:08,803
+Then the objects hide.
+
+15
+00:01:08,963 --> 00:01:13,933
+Walk the route again, say each beat from memory, and pinch the
+question mark to check.
+
+16
+00:01:14,093 --> 00:01:18,012
+Got it, or missed: two big targets, right next to the object.
+
+17
+00:01:19,072 --> 00:01:20,994
+Here, four of five came back.
+
+18
+00:01:21,154 --> 00:01:25,922
+The debrief names the one that slipped, and builds a practice route
+with only that beat.
+
+19
+00:01:26,082 --> 00:01:28,408
+One more walk, and every beat is back.
+
+20
+00:01:29,468 --> 00:01:35,856
+I planned it with the Devpost Learn plan-lens skill, and built it with
+CLAD through the Lens Studio MCP.
+
+21
+00:01:36,016 --> 00:01:42,117
+The five objects come from Lens Studio's 3D generator, and the sounds
+from CLAD's synthesizer.
+
+22
+00:01:42,277 --> 00:01:48,218
+Ten logic tests and seven LEAF scenarios pass in the preview, covering
+every done criterion.
+
+23
+00:01:49,278 --> 00:01:55,592
+This demo runs in Lens Studio's preview, in a simulated room, with
+spots placed on its furniture.
+
+24
+00:01:55,752 --> 00:01:57,832
+On glasses, you'd pinch your own.
+
+25
+00:01:57,992 --> 00:02:02,310
+Next, type or say your own talk, and keep your palace between
+rehearsals.
+
+26
+00:02:02,470 --> 00:02:06,022
+Walk your talk, and keep your eyes on the people you're talking to.

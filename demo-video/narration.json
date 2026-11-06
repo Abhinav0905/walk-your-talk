@@ -1,0 +1,98 @@
+{
+  "title": "Walk Your Talk",
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "scenes": [
+    {
+      "id": "problem",
+      "kicker": "THE PROBLEM",
+      "title": "A toast.\nNo free hands.",
+      "points": ["A glass in one hand, a mic in the other", "Eyes on the couple, not on note cards", "The talk has to live in your head"],
+      "sentences": [
+        "Your best friend's wedding is on Saturday, and you're giving a two-minute toast.",
+        "You'll be holding a glass and a microphone, and you want your eyes on the couple, not on note cards.",
+        "So the talk has to live in your head."
+      ]
+    },
+    {
+      "id": "idea",
+      "kicker": "THE IDEA",
+      "title": "Memory\nlives in places.",
+      "points": ["The method of loci", "Each beat becomes an odd object", "Left along a route you know"],
+      "sentences": [
+        "Memory champions don't repeat lists. They walk through a place they know and leave a vivid image at each spot.",
+        "In a 2017 study in Neuron, six weeks of this method more than doubled ordinary people's recall.",
+        "Walk Your Talk brings that trick into your actual room, on SPECS."
+      ]
+    },
+    {
+      "id": "build",
+      "kicker": "STEP ONE  ·  BUILD",
+      "title": "Drop each beat\non a real spot.",
+      "points": ["Five beats, five glowing spots", "Pinch to drop a vivid object", "A route appears on the floor"],
+      "sentences": [
+        "Pinch the glowing spot, and the first beat, thank everyone for coming, becomes a sunflower bouquet on the kitchen island.",
+        "The camping trip becomes a tent, the bowling alley a giant pin, patience a golden snail, and the toast itself a champagne flute.",
+        "A gold route joins them in the order you'll speak."
+      ]
+    },
+    {
+      "id": "walk",
+      "kicker": "STEP TWO  ·  WALK",
+      "title": "Rehearse with\nyour feet.",
+      "points": ["Walk up to each object", "Its beat appears, then fades", "Say it out loud, hands free"],
+      "sentences": [
+        "Now walk the route.",
+        "As you reach each object, it wakes up and shows its beat, just long enough to say it out loud.",
+        "If the next spot is out of view, a small arrow and a soft chime point the way.",
+        "Can't walk the room? Pinch the next spot instead."
+      ]
+    },
+    {
+      "id": "recall",
+      "kicker": "STEP THREE  ·  FROM MEMORY",
+      "title": "Walk it again,\nwithout the words.",
+      "points": ["Objects hide behind a question mark", "Say the beat, then check", "Grade yourself honestly"],
+      "sentences": [
+        "Then the objects hide.",
+        "Walk the route again, say each beat from memory, and pinch the question mark to check.",
+        "Got it, or missed: two big targets, right next to the object."
+      ]
+    },
+    {
+      "id": "debrief",
+      "kicker": "DEBRIEF",
+      "title": "Practice only\nwhat slipped.",
+      "points": ["The first-pass score stays honest", "A route of just the missed beats", "Walk until every beat is back"],
+      "sentences": [
+        "Here, four of five came back.",
+        "The debrief names the one that slipped, and builds a practice route with only that beat.",
+        "One more walk, and every beat is back."
+      ]
+    },
+    {
+      "id": "implementation",
+      "kicker": "HOW IT WAS BUILT",
+      "title": "Planned, built,\ntested in preview.",
+      "points": ["Planned with Devpost Learn's plan-lens", "Built with CLAD and the Lens Studio MCP", "Objects from Lens Studio's 3D generator"],
+      "sentences": [
+        "I planned it with the Devpost Learn plan-lens skill, and built it with CLAD through the Lens Studio MCP.",
+        "The five objects come from Lens Studio's 3D generator, and the sounds from CLAD's synthesizer.",
+        "Ten logic tests and seven LEAF scenarios pass in the preview, covering every done criterion."
+      ]
+    },
+    {
+      "id": "close",
+      "kicker": "WHAT'S NEXT",
+      "title": "Your room.\nYour talk.",
+      "points": ["Demo: a simulated room in the preview", "On glasses: pinch your own furniture", "Next: your own talk, palaces that persist"],
+      "sentences": [
+        "This demo runs in Lens Studio's preview, in a simulated room, with spots placed on its furniture.",
+        "On glasses, you'd pinch your own.",
+        "Next, type or say your own talk, and keep your palace between rehearsals.",
+        "Walk your talk, and keep your eyes on the people you're talking to."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Walk Your Talk turns the five beats of a talk into five odd objects placed on real furniture along a route through your room: a memory palace (method of loci) for SPECS.
+
+Build: pinch each glowing spot and a beat drops onto the furniture as a vivid object.
+Walk: walk up to each object; it wakes up and shows its beat just long enough to say it out loud, hands free and eyes up.
+Recall: the objects hide behind question marks. Say each beat from memory, pinch to check, and grade yourself.
+Debrief: see your first-pass score and practice a route of only the beats that slipped.
+
+00:00 The problem
+00:12 The idea
+00:31 Build
+00:51 Walk
+01:07 Recall
+01:18 Debrief and practice
+01:29 How it was built
+01:48 What's next
+
+Planned with the Devpost Learn plan-lens skill. Built with CLAD, Lens Studio 5.23.2 and the Lens Studio MCP. Spectacles Interaction Kit and UIKit; objects from Lens Studio's 3D generator; sounds from CLAD's build-sfx. Validation: 10 logic tests and 7 LEAF scenarios pass in the preview.
+
+These are recordings of the running Lens in Lens Studio's preview (Colorful Home room), driven by synthetic preview input. The room and spot positions are simulated; on glasses you would pinch your own furniture. Comfort and learning outcomes on real SPECS are not yet tested.
+
+Method of loci study: Dresler et al., "Mnemonic Training Reshapes Brain Networks to Support Superior Memory", Neuron (2017).
+
+Voice: the narration uses Kokoro TTS with the af_heart voice. It's a synthetic voice, not a clone of anyone's voice. The English captions were added separately.
+
+Built for Learn AR with SPECS: https://learn-specs.devpost.com/

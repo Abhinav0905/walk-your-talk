@@ -1,0 +1,17 @@
+{
+  "name": "walk-your-talk-specs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Walk Your Talk: memorize a talk by walking your room. A memory-palace Lens for SPECS.",
+  "scripts": {
+    "test": "node --test tests/*.test.ts",
+    "typecheck": "tsc --project tsconfig.core.json --noEmit",
+    "demo": "node demo-video/drive.mjs"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}

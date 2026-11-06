@@ -1,0 +1,14 @@
+{
+  "target": "Lens Studio 5.23.2 Preview (SPECS 27, Interactive, Colorful Home)",
+  "runAt": "2026-11-06T15:47-08:00",
+  "runner": "Lens Studio MCP run_leaf_scenario (onDevice: false)",
+  "results": [
+    {"scenarioId": "wyt_build_in_order", "doneCriterion": 1, "status": "succeeded"},
+    {"scenarioId": "wyt_out_of_order_ignored", "doneCriterion": 2, "status": "succeeded"},
+    {"scenarioId": "wyt_walk_shows_each_beat", "doneCriterion": 3, "status": "succeeded"},
+    {"scenarioId": "wyt_recall_and_grade", "doneCriterion": 4, "status": "succeeded"},
+    {"scenarioId": "wyt_practice_missed", "doneCriterion": 5, "status": "succeeded"},
+    {"scenarioId": "wyt_start_over", "doneCriterion": 6, "status": "succeeded"},
+    {"scenarioId": "wyt_ik_reach_start", "doneCriterion": "reachability", "status": "succeeded"}
+  ]
+}

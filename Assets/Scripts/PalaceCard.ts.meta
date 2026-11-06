@@ -1,0 +1,64 @@
+- !<AssetImportMetadata/812548bc-d219-4050-92aa-e20c2f72ff2e>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> aa6c314f-12d4-4cac-b4a4-828be0d3b77e
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> aa6c314f-12d4-4cac-b4a4-828be0d3b77e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> f69c4db1-adf2-46c6-8d04-0caa40c09dc5
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/f69c4db1-adf2-46c6-8d04-0caa40c09dc5>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: e7aa272c-d37d-48ba-8719-b8236a958dd5
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bodyHeight: false
+    buttonMaterial: false
+    padding: false
+    panelWidth: false
+    rowGap: false
+    textScale: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - panelWidth: !<float> 40.000000
+      padding: !<float> 2.000000
+      rowGap: 0.900000
+      bodyHeight: !<float> 6.000000
+      textScale: !<float> 1.000000
+      buttonMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @ui {"widget":"label", "label":"Walk Your Talk | card"}'
+    - '// @ui {"widget":"group_start", "label":"Layout"}'
+    - '// @input float panelWidth = 40 {"hint":"Card width in cm", "widget":"slider", "min":20, "max":60, "step":1}'
+    - '// @input float padding = 2 {"hint":"Inner padding in cm", "widget":"slider", "min":0.5, "max":4, "step":0.1}'
+    - '// @input float rowGap = 0.9 {"hint":"Gap between rows in cm", "widget":"slider", "min":0, "max":3, "step":0.1}'
+    - '// @input float bodyHeight = 6 {"hint":"Height reserved for body text in cm", "widget":"slider", "min":2, "max":20, "step":0.5}'
+    - '// @input float textScale = 1 {"hint":"Text scale multiplier", "widget":"slider", "min":0.5, "max":2, "step":0.05}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @input Asset.Material buttonMaterial {"hint":"Unlit alpha-blended material for the button pills"}'
