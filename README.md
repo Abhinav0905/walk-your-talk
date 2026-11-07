@@ -16,7 +16,9 @@ The sample talk is a two-minute wedding toast in five beats:
 
 ![Walk Your Talk in Lens Studio's preview](devpost/screenshots/03-walk.png)
 
-[Watch the demo](https://www.youtube.com/watch?v=iknHR1UDmHI) · [Devpost](https://devpost.com/software/walk-your-talk-memorize-a-talk-by-walking-your-room)
+[Try it in your browser](https://abhinav0905.github.io/walk-your-talk/) · [Watch the demo](https://www.youtube.com/watch?v=iknHR1UDmHI) · [Devpost](https://devpost.com/software/walk-your-talk-memorize-a-talk-by-walking-your-room)
+
+The browser companion runs the Lens's own session logic (`PalaceModel.ts`, compiled by `npm run web:build`) with real Lens Studio preview frames for every step.
 
 ## Why glasses
 
