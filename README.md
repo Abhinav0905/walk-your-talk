@@ -16,7 +16,7 @@ The sample talk is a two-minute wedding toast in five beats:
 
 ![Walk Your Talk in Lens Studio's preview](devpost/screenshots/03-walk.png)
 
-[Watch the demo](VIDEO_URL) · [Devpost](DEVPOST_URL)
+[Watch the demo](https://www.youtube.com/watch?v=iknHR1UDmHI) · [Devpost](https://learn-specs.devpost.com/)
 
 ## Why glasses
 
